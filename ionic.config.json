@@ -1,0 +1,7 @@
+{
+  "name": "app_agro_tec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
